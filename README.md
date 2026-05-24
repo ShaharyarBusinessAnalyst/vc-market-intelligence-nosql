@@ -1,4 +1,4 @@
-# 📊 Venture Capital Market Intelligence
+# Venture Capital Market Intelligence
 
 **Advanced Databases Final Project | Purdue University**
 
